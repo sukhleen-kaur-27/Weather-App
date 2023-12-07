@@ -1,6 +1,7 @@
 # **Weather App with OpenWeatherMap API**
 <br>   
 # Overview
+
 <br>
 This Weather App is a Python project that allows users to fetch and display weather information for a given city. It interacts with the OpenWeatherMap API to provide real-time weather data for the user's specified location.
 
@@ -12,7 +13,7 @@ This Weather App is a Python project that allows users to fetch and display weat
 <br>
 To run the project, use the following command: python ./Weather App.py.
 <br>
-![Weather App Output Image](https://github.com/sukhleen-kaur-27/Weather-App/assets/74076814/4703a9de-f5f6-430b-855c-d29f643a8ff3)
+![image](https://github.com/sukhleen-kaur-27/Weather-App/assets/74076814/4703a9de-f5f6-430b-855c-d29f643a8ff3)
 
 
 
