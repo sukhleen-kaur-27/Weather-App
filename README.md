@@ -12,6 +12,7 @@ This Weather App is a Python project that allows users to fetch and display weat
 <br>
 To run the project, use the following command: python ./Weather App.py.
 <br>
-![image](https://github.com/Manisha152/Weather-App-Project/assets/87291128/f23ab1fa-2a31-4f74-b9ee-35016c8daefe)
+![Weather App Output Image](https://github.com/sukhleen-kaur-27/Weather-App/assets/74076814/4703a9de-f5f6-430b-855c-d29f643a8ff3)
+
 
 
